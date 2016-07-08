@@ -1,0 +1,14 @@
+body {
+    font-family: 'Sniglet', serif;
+    font-weight: 400;
+    background-color: lightcyan;
+}
+
+.title {
+    font-size: 96px;
+    text-align: center;
+}
+
+p {
+  border: 1px solid red;
+}
